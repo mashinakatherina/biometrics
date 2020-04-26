@@ -2,3 +2,5 @@
 
 <h3 align=center> <a href="Lab3">Лабораторная работа №3 - "Знакомство с Pandas"</a> </h3>
 <h3 align=center> <a href="Lab4">Лабораторная работа №4"</a> </h3>
+<h3 align=center> <a href="Lab5.docx">Лабораторная работа №5"</a> </h3>
+<h3 align=center> <a href="Lab6">Лабораторная работа №6"</a> </h3>
