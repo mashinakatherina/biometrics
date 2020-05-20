@@ -12,5 +12,6 @@
 <h3 align=center> <a href="Lab6">Лабораторная работа №6"</a> </h3>
 <a href="Lab6/Part1">Нахождение любого объекта на фото; </a>
 
-<a href="Lab6/Part2">Нахождение VR-очков на фото</a>
+<a href="Lab6/Part2">Нахождение VR-очков на фото;</a>
+
 <a href="Lab6/Lab6_Transfer_Learning.ipynb">Сверточная нейросеть</a>
