@@ -15,3 +15,9 @@
 <a href="Lab6/Part2">Нахождение VR-очков на фото;</a>
 </br>
 <a href="Lab6/Lab6_Transfer_Learning.ipynb">Сверточная нейросеть</a>
+
+<h3 align=center> <a href="abstract">Экзамен (итговый реферат)"</a> </h3>
+</br>
+<a href="abstract/Реферат_Екатерина_Машина.pdf">Реферат</a>
+</br>
+<a href="abstract/Презентация_Екатерина_Машина.pdf">Презентация + код</a>
